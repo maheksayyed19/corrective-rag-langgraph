@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# your own PDFs (often copyrighted) and generated indexes
+documents/*.pdf
+faiss_index/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

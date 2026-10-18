@@ -1,0 +1,11 @@
+python-dotenv
+pypdf
+faiss-cpu
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-groq
+langchain-tavily
+langgraph
+jupyter
